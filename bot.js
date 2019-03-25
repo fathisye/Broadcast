@@ -6,12 +6,12 @@ const prefix = "=";
 
 client.on('ready', () => {
    console.log(`----------------`);
-      console.log(`Desert Bot- Script By : EX Clan`);
+      console.log(`AboRoh Script By : AboRoh`);
         console.log(`----------------`);
-      console.log(`ON ${client.guilds.size} Servers '     Script By : EX Clan ' `);
+      console.log(`ON ${client.guilds.size} Servers '     Script By : AboRoh ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`=bc |AboRoh`,"http://twitch.tv/Death Shop")
+client.user.setGame(`=bc |AboRoh`,"http://twitch.tv/AboRoh")
 client.user.setStatus("dnd")
 });
 
